@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.677c0416.css",
+    "main.js": "/static/js/main.6a82639b.js",
+    "static/js/787.f2c0fe66.chunk.js": "/static/js/787.f2c0fe66.chunk.js",
+    "static/media/rachel-in-studio.jpg": "/static/media/rachel-in-studio.0cdce83e06751cd4f0c9.jpg",
+    "static/media/animated-shape.svg": "/static/media/animated-shape.fbfc889ec678e337e44e43f0319159e1.svg",
+    "index.html": "/index.html",
+    "static/media/mail-bulk-solid.svg": "/static/media/mail-bulk-solid.01ebb313b2190a8566915bd4a5d28c3b.svg",
+    "main.677c0416.css.map": "/static/css/main.677c0416.css.map",
+    "main.6a82639b.js.map": "/static/js/main.6a82639b.js.map",
+    "787.f2c0fe66.chunk.js.map": "/static/js/787.f2c0fe66.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.677c0416.css",
+    "static/js/main.6a82639b.js"
+  ]
+}
